@@ -1,4 +1,4 @@
 # Sparky-Website
 Website for Sparky Discord Bot
 
-# Soon
+Its Still UnderDevelopment Please Dont Use It If You dont know what are you doing :P
